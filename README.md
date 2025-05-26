@@ -53,7 +53,7 @@ A comprehensive survey of Concept Bottleneck Models (CBM)
 | NeurIPS 2024 | [A Theoretical Design of Concept Sets: Improving the Predictability of Concept Bottleneck Models](https://dblp.uni-trier.de/rec/conf/nips/LuytenS24.html) ||
 | NeurIPS 2024 | [A Concept-Based Explainability Framework for Large Multimodal Models](https://arxiv.org/abs/2406.08074) |  [Code](https://github.com/mshukor/xl-vlms)|
 | NeurIPS 2024 | [Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift](https://arxiv.org/abs/2410.18478) |  [Code](https://github.com/chen-junbao/fedccfa)|
-| NeurIPS 2024 | [ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty](https://arxiv.org/abs/2408.14339) |-|
+| NeurIPS 2024 | [ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty](https://arxiv.org/abs/2408.14339) |[Code](https://github.com/princetonvisualai/ConceptMix)|
 | NeurIPS 2024 | [Do LLMs Dream of Elephants (when Told Not To)? Latent Concept Association and Associative Memory in Transformers](https://arxiv.org/abs/2406.18400) |-|
 | NeurIPS 2024 | [FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://arxiv.org/abs/2407.06567) |  [Code](https://github.com/MXGao-A/FAgent)|
 | NeurIPS 2024 | [Free Lunch in Pathology Foundation Model: Task-specific Model Adaptation with Concept-Guided Feature Enhancement](https://arxiv.org/abs/2411.09894) |  [Code](https://github.com/HKU-MedAI/CATE)|
