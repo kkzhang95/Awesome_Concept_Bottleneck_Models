@@ -78,7 +78,6 @@ A comprehensive survey of Concept Bottleneck Models (CBM)
 | ICLR 2023 | [LABEL-FREE CONCEPT BOTTLENECK MODELS](https://arxiv.org/pdf/2304.06129) |  [Code](https://github.com/trustworthy-ml-lab/label-free-cbm)|
 | CVPR 2023 | [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Language_in_a_Bottle_Language_Model_Guided_Concept_Bottlenecks_for_CVPR_2023_paper.pdf) |  [Code](https://github.com/yueyang1996/labo)|
 | 2023 | [STAIR: Learning Sparse Text and Image Representation in Grounded Tokens](https://arxiv.org/pdf/2301.13081v2) |-|
-| 2023 | [A ChatGPT Aided Explainable Framework for Zero-Shot Medical Image Diagnosis](https://arxiv.org/pdf/2307.01981) |-|
 | 2023 | [A ChatGPT Aided Explainable Framework for Zero-Shot Medical Image Diagnosis](https://doi.org/10.48550/arxiv.2307.01981) |-|
 | ICML 2023 | [A Closer Look at the Intervention Procedure of Concept Bottleneck Models](https://doi.org/10.48550/arxiv.2302.14260) |  [Code](https://github.com/ssbin4/Closer-Intervention-CBM)|
 | MICCAI 2023 | [Concept Bottleneck with Visual Concept Filtering for Explainable Medical Image Classification](https://doi.org/10.1007/978-3-031-47401-9_22) |-|
@@ -100,7 +99,7 @@ A comprehensive survey of Concept Bottleneck Models (CBM)
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | ICML 2021 | [Meaningfully Debugging Model Mistakes Using Conceptual Counterfactual Explanations](https://doi.org/10.48550/arxiv.2106.12723) |  [Code](https://github.com/mertyg/debug-mistakes-cce)|
-| NML 2021 | [A case-based interpretable deep learning model for classification of mass lesions in digital mammography](https://arxiv.org/pdf/2103.12308) |-|
+| NML 2021 | [A case-based interpretable deep learning model for classification of mass lesions in digital mammography](https://arxiv.org/pdf/2103.12308) |[Code](A case-based interpretable deep learning model for classification of mass lesions in digital mammography)|
 | 2021 | [Partially Interpretable Estimators (PIE): Black-Box-Refined Interpretable Machine Learning](https://doi.org/10.48550/arxiv.2105.02410) |-|
 
 #### 2020
