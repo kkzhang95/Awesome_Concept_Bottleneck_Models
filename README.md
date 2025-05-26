@@ -6,7 +6,7 @@ A comprehensive survey of Concept Bottleneck Models (CBM)
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|
 | CVPR 2024 | [Incremental Residual Concept Bottleneck Models](https://doi.org/10.1109/cvpr52733.2024.01049) |  [Code](https://github.com/helloscm/res-cbm)|
-| 2024 | [Concept-Attention Whitening for Interpretable Skin Lesion Diagnosis]((https://arxiv.org/pdf/2404.05997v2)) |  [Code]( )|
+| 2024 | [Concept-Attention Whitening for Interpretable Skin Lesion Diagnosis](https://arxiv.org/pdf/2404.05997v2) |  [Code]( )|
 | 2024 | [Aligning human knowledge with visual concepts towards explainable medical image classification](https://arxiv.org/pdf/2406.05596) |  [Code]( )|
 | 2024 | [Evidential concept embedding models: Towards reliable concept explanations for skin disease diagnosis](https://arxiv.org/pdf/2406.19130) |  [Code]( )|
 | 2024 | [Learning a Clinically-Relevant Concept Bottleneck for Lesion Detection in Breast Ultrasound](https://arxiv.org/pdf/2407.00267v1) |  [Code]( )|
