@@ -14,7 +14,7 @@ A comprehensive survey of Concept Bottleneck Models (CBM)
 | CVPR 2024 | [Incremental Residual Concept Bottleneck Models](https://doi.org/10.1109/cvpr52733.2024.01049) |  [Code](https://github.com/helloscm/res-cbm)|
 | 2024 | [Concept-Attention Whitening for Interpretable Skin Lesion Diagnosis](https://arxiv.org/pdf/2404.05997v2) |-|
 | MICCAI 2024 | [Aligning human knowledge with visual concepts towards explainable medical image classification](https://arxiv.org/pdf/2406.05596) |[Code](https://github.com/yhygao/Explicd?tab=readme-ov-file)|
-| 2024 | [Evidential concept embedding models: Towards reliable concept explanations for skin disease diagnosis](https://arxiv.org/pdf/2406.19130) |-|
+| MICCAI 2024 | [Evidential concept embedding models: Towards reliable concept explanations for skin disease diagnosis](https://arxiv.org/pdf/2406.19130) |[Code](https://github.com/obiyoag/evi-CEM)|
 | 2024 | [Learning a Clinically-Relevant Concept Bottleneck for Lesion Detection in Breast Ultrasound](https://arxiv.org/pdf/2407.00267v1) |-|
 | 2024 | [Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain](https://arxiv.org/pdf/2407.11375v1) |  [Code](https://github.com/ailab-kyunghee/mammi)|
 | ECCV 2024 | [Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery](https://arxiv.org/pdf/2407.14499v2) |  [Code](https://github.com/neuroexplicit-saar/discover-then-name)|
