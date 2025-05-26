@@ -99,7 +99,7 @@ A comprehensive survey of Concept Bottleneck Models (CBM)
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | ICML 2021 | [Meaningfully Debugging Model Mistakes Using Conceptual Counterfactual Explanations](https://doi.org/10.48550/arxiv.2106.12723) |  [Code](https://github.com/mertyg/debug-mistakes-cce)|
-| NML 2021 | [A case-based interpretable deep learning model for classification of mass lesions in digital mammography](https://arxiv.org/pdf/2103.12308) |[Code](A case-based interpretable deep learning model for classification of mass lesions in digital mammography)|
+| NML 2021 | [A case-based interpretable deep learning model for classification of mass lesions in digital mammography](https://arxiv.org/pdf/2103.12308) |[Code](https://github.com/alinajadebarnett/iaiabl)|
 | 2021 | [Partially Interpretable Estimators (PIE): Black-Box-Refined Interpretable Machine Learning](https://doi.org/10.48550/arxiv.2105.02410) |-|
 
 #### 2020
