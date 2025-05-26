@@ -111,13 +111,13 @@ A comprehensive survey of Concept Bottleneck Models (CBM)
 
 #### 2018
 | Publication |    Paper Title     |   Code/Project                                                 |
-|:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|
+|:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | ICML 2018 | [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/pdf/1612.03975) |  [Code](https://github.com/tensorflow/tcav)|
 | J-BHI 2018 | [Seven-Point Checklist and Skin Lesion Classification Using Multitask Multimodal Neural Nets](https://www.academia.edu/download/65187111/Kawahara_et_al_2018.pdf) |  [Code](https://github.com/tensorflow/tcav)|
 
 
 #### 2017
 | Publication |    Paper Title     |   Code/Project                                                 |
-|:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|
+|:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | AAAI 2017 | [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/abs/1612.03975) |  [Code](https://arxiv.org/pdf/1612.03975)|
 
