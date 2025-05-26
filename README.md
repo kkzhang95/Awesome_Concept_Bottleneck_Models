@@ -41,7 +41,7 @@ A comprehensive survey of Concept Bottleneck Models (CBM)
 | PAKDD 2024 | [Interpreting Pretrained Language Models Via Concept Bottlenecks](https://doi.org/10.1007/978-981-97-2259-4_5) |  [Code](https://github.com/Zhen-Tan-dmml/CBM_NLP?tab=readme-ov-file)|
 | 2024 | [LVLM-Interpret: An Interpretability Tool for Large Vision-Language Models](https://arxiv.org/pdf/2404.03118) |  [Code](https://github.com/IntelLabs/lvlm-interpret)|
 | 2024 | [On the Concept Trustworthiness in Concept Bottleneck Models](https://doi.org/10.1609/aaai.v38i19.30109) |  [Code](https://github.com/hqhQAQ/ProtoCBM)|
-| 2024 | [Semi-supervised Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2406-18992.html) |-|
+| 2024 | [Semi-supervised Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2406-18992.html) |[Code](https://github.com/Skyyyy0920/SSCBM)|
 | NeurIPS 2024 | [Stochastic Concept Bottleneck Models](https://arxiv.org/abs/2406.19272) |  [Code](https://github.com/mvandenhi/scbm)|
 | 2024 | [XCoOp: Explainable Prompt Learning for Computer-Aided Diagnosis via Concept-guided Context Optimization](https://arxiv.org/pdf/2403.09410v1) |-|
 | ICLR 2024 | [Concept Bottleneck Generative Models](https://dblp.uni-trier.de/rec/conf/iclr/IsmailABRC24.html) |  [Code](https://github.com/prescient-design/CBGM)|
