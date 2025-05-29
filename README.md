@@ -25,7 +25,7 @@ A comprehensive survey of Concept Bottleneck Models (CBM)
 | 2024 | [Concept Complement Bottleneck Model for Interpretable Medical Image Diagnosis](https://arxiv.org/abs/2410.15446) |-|
 | NeurIPS 2024 | [Towards Multi-dimensional Explanation Alignment for Medical Classification](https://proceedings.neurips.cc/paper_files/paper/2024/file/ea370419760b421ce12e3082eb2ae1a8-Paper-Conference.pdf) |-|
 | 2024 | [Explainable and interpretable multimodal large language models: A comprehensive survey](https://arxiv.org/abs/2412.02104) |-|
-| AAAI 2024 | [Sparsity-guided holistic explanation for llms with interpretable inference-time intervention](https://github.com/Zhen-Tan-dmml/CBM_NLP.git) |  [Code](https://github.com/zhen-tan-dmml/sparsecbm)|
+| AAAI 2024 | [Sparsity-guided holistic explanation for llms with interpretable inference-time intervention](https://ojs.aaai.org/index.php/AAAI/article/download/30160/32058) |  [Code](https://github.com/zhen-tan-dmml/sparsecbm)|
 | 2024 | [Addressing Leakage in Concept Bottleneck Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/944ecf65a46feb578a43abfd5cddd960-Paper-Conference.pdf) |  [Code](https://github.com/dtak/addressing-leakage)|
 | NeurIPS 2024 | [Beyond Concept Bottleneck Models: How to Make Black Boxes Intervenable?](https://doi.org/10.48550/arxiv.2401.13544) |  [Code](https://github.com/sonialagunac/beyond-cbm)|
 | TMLR 2024 | [CLIP-QDA: an Explainable Concept Bottleneck Model](https://doi.org/10.48550/arxiv.2312.00110) |-|
