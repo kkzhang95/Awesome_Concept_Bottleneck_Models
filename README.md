@@ -2,7 +2,7 @@
 A comprehensive survey of Concept Bottleneck Models (CBM). CBMs typically involve a layer preceding the final fully connected classifier, where each neuron corresponds to a concept that can be interpreted by humans. CBMs also show advantages in improving accuracy through human intervention during testing.
 
 ![image](https://github.com/user-attachments/assets/2d0eebf1-57e6-4760-aab5-f6f4fbdec3bd)
-A case for CBM methods. (from [Incremental Residual Concept Bottleneck Models](https://doi.org/10.1109/cvpr52733.2024.01049))
+A case for CBM family methods. (Figure from [Incremental Residual Concept Bottleneck Models](https://doi.org/10.1109/cvpr52733.2024.01049))
 
 
 #### 2025
