@@ -52,7 +52,7 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | Sci. Rep 2024 | [Pseudo-class Part Prototype Networks for Interpretable Breast Cancer Classification](https://doi.org/10.1038/s41598-024-60743-x) |  [Code](https://github.com/MA-Choukali/PCPPN)|
 | TMLR 2024 | [Reproducibility Study of "LICO: Explainable Models with Language-Image Consistency"](https://dblp.uni-trier.de/rec/journals/tmlr/FletcherKSVA24.html) |  [Code](https://github.com/robertdvdk/lico-fact)|
 | 2024 | [Post-hoc Part-prototype Networks](https://arxiv.org/abs/2406.03421) |-|
-| CVPR 2024 | [Embracing Unimodal Aleatoric Uncertainty for Robust Multimodal Fusion](https://doi.org/10.1109/cvpr52733.2024.02538) |-|
+| 2024 | [Embracing Unimodal Aleatoric Uncertainty for Robust Multimodal Fusion](https://doi.org/10.1109/cvpr52733.2024.02538) |-|
 | TMLR 2024 | [[Re].on the Reproducibility of Post-Hoc Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/tmlr/MidavaineGCSC24.html) |  [Code](https://github.com/dgcnz/FACT)|
 | NeurIPS 2024 | [A Theoretical Design of Concept Sets: Improving the Predictability of Concept Bottleneck Models](https://dblp.uni-trier.de/rec/conf/nips/LuytenS24.html) ||
 | NeurIPS 2024 | [A Concept-Based Explainability Framework for Large Multimodal Models](https://arxiv.org/abs/2406.08074) |  [Code](https://github.com/mshukor/xl-vlms)|
