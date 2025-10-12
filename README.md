@@ -8,6 +8,9 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 #### 2025
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
+| CVPR 2025 | [Towards Human-Understandable Multi-Dimensional Concept Discovery](https://openaccess.thecvf.com/content/CVPR2025/papers/Grobrugge_Towards_Human-Understandable_Multi-Dimensional_Concept_Discovery_CVPR_2025_paper.pdf) |  [Code](https://github.com/grobruegge/hu-mcd)|
+| CVPR 2025 | [ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Cendra_ICE_Intrinsic_Concept_Extraction_from_a_Single_Image_via_Diffusion_CVPR_2025_paper.pdf) |  [Code](https://visual-ai.github.io/ice/)|
+| CVPR 2025 | [Show and Tell: Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Benou_Show_and_Tell_Visually_Explainable_Deep_Neural_Nets_via_Spatially-Aware_CVPR_2025_paper.pdf) |-| 
 | TMLR 2025 | [Selective Concept Bottleneck Models Without Predefined Concepts](https://openreview.net/pdf?id=uuvujfQXZy) |  [Code](https://openreview.net/forum?id=PMO30TLI4l)|
 | 2025 | [ConceptCLIP: Towards Trustworthy Medical AI Via Concept-Enhanced Contrastive Langauge-Image Pre-training](https://arxiv.org/abs/2501.15579) |  [Code](https://github.com/JerrryNie/ConceptCLIP)|
 | 2025 | [Interpretable Generative Models through Post-hoc Concept Bottlenecks](https://arxiv.org/pdf/2503.19377v1) |  [Code](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm)|
