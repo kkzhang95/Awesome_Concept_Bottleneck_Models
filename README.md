@@ -8,6 +8,16 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 #### 2025
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
+| AAAI 2025 | [Interpretable Failure Detection with Human-Level Concepts](https://ojs.aaai.org/index.php/AAAI/article/view/34831) |  [Code](https://github.com/Nyquixt/ORCA)|
+| AAAI 2025 | [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://ojs.aaai.org/index.php/AAAI/article/view/32352) |  [Code](https://github.com/riverback/V2C-CBM)|
+| MICCAI 2025 | [RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment](https://papers.miccai.org/miccai-2025/paper/3308_paper.pdf) |  [Code](https://github.com/difeigu/RadAlign)|
+| MICCAI 2025 | [Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification](https://papers.miccai.org/miccai-2025/paper/1569_paper.pdf) |  [Code](https://github.com/obiyoag/crl)|
+| MICCAI 2025 | [Explain Any Pathological Concept: Discovering Hierarchical Explanations for Pathology Foundation Models](https://papers.miccai.org/miccai-2025/paper/1641_paper.pdf) |-|
+| MICCAI 2025 | [CytoSAE: Interpretable Cell Embeddings for Hematology](https://papers.miccai.org/miccai-2025/paper/4885_paper.pdf) |  [Code](https://github.com/dynamical-inference/cytosae)|
+| MICCAI 2025 | [SurgX: Neuron-Concept Association for Explainable Surgical Phase Recognition](https://papers.miccai.org/miccai-2025/paper/2547_paper.pdf) |  [Code](https://github.com/ailab-kyunghee/SurgX)|
+| MICCAI 2025 | [Concept-induced Graph Perception Model for Interpretable Diagnosis](https://papers.miccai.org/miccai-2025/paper/0253_paper.pdf) |-|
+| MICCAI 2025 | [CoPA: Hierarchical Concept Prompting and Aggregating Network for Explainable  Diagnosis](https://papers.miccai.org/miccai-2025/paper/1919_paper.pdf) |  [Code](https://github.com/yihengd/CoPA)|
+| MICCAI 2025 | [MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report  Generation](https://papers.miccai.org/miccai-2025/paper/0297_paper.pdf) |-|
 | CVPR 2025 | [Concept Replacer: Replacing Sensitive Concepts in Diffusion Models via Precision Localization](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Concept_Replacer_Replacing_Sensitive_Concepts_in_Diffusion_Models_via_Precision_CVPR_2025_paper.pdf) |  [Code](https://github.com/zhang-lingyun/ConceptReplacer)|
 | CVPR 2025 | [Attribute-formed Class-specific Concept Space: Endowing Language Bottleneck Model with Better Interpretability and Scalability](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Attribute-formed_Class-specific_Concept_Space_Endowing_Language_Bottleneck_Model_with_Better_CVPR_2025_paper.pdf) |  [Code](https://github.com/tiggers23/ALBM)|
 | CVPR 2025 | [Explaining Domain Shifts in Language: Concept erasing for Interpretable Image Classification](https://openaccess.thecvf.com/content/CVPR2025/papers/Zeng_Explaining_Domain_Shifts_in_Language_Concept_Erasing_for_Interpretable_Image_CVPR_2025_paper.pdf) |  [Code](https://github.com/joeyz0z/LanCE)|
