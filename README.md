@@ -8,6 +8,7 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 #### 2025
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
+| ICLR 2025 | [Counterfactual Concept Bottleneck Models](https://openreview.net/pdf?id=w7pMjyjsKN) |  [Code](https://github.com/gabriele-dominici/Counterfactual-CBM)|
 | AAAI 2025 | [Interpretable Failure Detection with Human-Level Concepts](https://ojs.aaai.org/index.php/AAAI/article/view/34831) |  [Code](https://github.com/Nyquixt/ORCA)|
 | AAAI 2025 | [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://ojs.aaai.org/index.php/AAAI/article/view/32352) |  [Code](https://github.com/riverback/V2C-CBM)|
 | MICCAI 2025 | [RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment](https://papers.miccai.org/miccai-2025/paper/3308_paper.pdf) |  [Code](https://github.com/difeigu/RadAlign)|
