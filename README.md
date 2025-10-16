@@ -9,8 +9,9 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | TMLR 2025 | [Selective Concept Bottleneck Models Without Predefined Concepts](https://lmb.informatik.uni-freiburg.de/Publications/2025/SAB25/paper-ucbm.pdf) |  [code](https://github.com/lmb-freiburg/ucbm)|
-| NeurIPS 2025 | [Debugging Concept Bottleneck Models through Removal and Retraining](https://openreview.net/pdf?id=brVKCBEBQz) |-|
-| NeurIPS 2025 | [Multimodal Concept Bottleneck Models](https://openreview.net/pdf?id=6r2ercqOo8) |-|
+| 2025 | [Debugging Concept Bottleneck Models through Removal and Retraining](https://openreview.net/pdf?id=brVKCBEBQz) |-|
+| 2025 | [Multimodal Concept Bottleneck Models](https://openreview.net/pdf?id=6r2ercqOo8) |-|
+| NeurIPS 2025 | [An Analysis of Concept Bottleneck Models: Measuring, Understanding, and Mitigating the Impact of Noisy Annotations](https://arxiv.org/pdf/2505.16705) |-|
 | 2025 | [Zero-shot Concept Bottleneck Models](https://arxiv.org/pdf/2502.09018) |  [Code](https://github.com/yshinya6/zcbm)|
 | 2025 | [Chat-CBM: Towards Interactive Concept Bottleneck Models with Frozen Large Language Models](https://arxiv.org/pdf/2509.17522) |-|
 | 2025 | [Graph Concept Bottleneck Models](https://arxiv.org/pdf/2508.14255) |-|
