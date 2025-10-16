@@ -8,10 +8,18 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 #### 2025
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
+| NeurIPS 2025 | [Multimodal Concept Bottleneck Models](https://openreview.net/pdf?id=6r2ercqOo8) |-|
+| 2025 | [Zero-shot Concept Bottleneck Models](https://arxiv.org/pdf/2502.09018) |  [Code](https://github.com/yshinya6/zcbm)|
+| 2025 | [Chat-CBM: Towards Interactive Concept Bottleneck Models with Frozen Large Language Models](https://arxiv.org/pdf/2509.17522) |-|
+| 2025 | [Graph Concept Bottleneck Models](https://arxiv.org/pdf/2508.14255) |-|
+| 2025 | [Towards Reasonable Concept Bottleneck Models](https://arxiv.org/pdf/2506.05014) |-|
+| 2025 | [There Was Never a Bottleneck in Concept Bottleneck Models](https://arxiv.org/pdf/2506.04877) |  [Code](https://github.com/antonioalmudevar/minimal_cbm)|
+| ICLR 2025 | [Causally Reliable Concept Bottleneck Models](https://arxiv.org/pdf/2503.04363) |  [Code](https://github.com/gdefe/causally-reliable-cbm)|
 | ICLR 2025 | [Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology](https://openreview.net/pdf?id=trj2Jq8riA) |  [Code](https://github.com/liupei101/VLSA)|
 | ICLR 2025 | [Concept Bottleneck Language Models For Protein Design](https://openreview.net/pdf?id=Yt9CFhOOFe) |-|
 | ICLR 2025 | [Concept Bottleneck Large Language Models](https://openreview.net/pdf?id=RC5FPYVQaH) |  [Code](https://github.com/Trustworthy-ML-Lab/CB-LLMs)|
 | ICLR 2025 | [Counterfactual Concept Bottleneck Models](https://openreview.net/pdf?id=w7pMjyjsKN) |  [Code](https://github.com/gabriele-dominici/Counterfactual-CBM)|
+| AAAI 2025 | [Explanation Bottleneck Models](https://arxiv.org/pdf/2409.17663) |  [Code](https://github.com/yshinya6/xbm/)|
 | AAAI 2025 | [Interpretable Failure Detection with Human-Level Concepts](https://ojs.aaai.org/index.php/AAAI/article/view/34831) |  [Code](https://github.com/Nyquixt/ORCA)|
 | AAAI 2025 | [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://ojs.aaai.org/index.php/AAAI/article/view/32352) |  [Code](https://github.com/riverback/V2C-CBM)|
 | MICCAI 2025 | [RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment](https://papers.miccai.org/miccai-2025/paper/3308_paper.pdf) |  [Code](https://github.com/difeigu/RadAlign)|
@@ -22,6 +30,7 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | MICCAI 2025 | [Concept-induced Graph Perception Model for Interpretable Diagnosis](https://papers.miccai.org/miccai-2025/paper/0253_paper.pdf) |-|
 | MICCAI 2025 | [CoPA: Hierarchical Concept Prompting and Aggregating Network for Explainable  Diagnosis](https://papers.miccai.org/miccai-2025/paper/1919_paper.pdf) |  [Code](https://github.com/yihengd/CoPA)|
 | MICCAI 2025 | [MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report  Generation](https://papers.miccai.org/miccai-2025/paper/0297_paper.pdf) |-|
+| CVPR 2025 | [Language Guided Concept Bottleneck Models for Interpretable Continual Learning](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Language_Guided_Concept_Bottleneck_Models_for_Interpretable_Continual_Learning_CVPR_2025_paper.pdf) |  [Code](https://github.com/FisherCats/CLG-CBM)|
 | CVPR 2025 | [Concept Replacer: Replacing Sensitive Concepts in Diffusion Models via Precision Localization](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Concept_Replacer_Replacing_Sensitive_Concepts_in_Diffusion_Models_via_Precision_CVPR_2025_paper.pdf) |  [Code](https://github.com/zhang-lingyun/ConceptReplacer)|
 | CVPR 2025 | [Attribute-formed Class-specific Concept Space: Endowing Language Bottleneck Model with Better Interpretability and Scalability](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Attribute-formed_Class-specific_Concept_Space_Endowing_Language_Bottleneck_Model_with_Better_CVPR_2025_paper.pdf) |  [Code](https://github.com/tiggers23/ALBM)|
 | CVPR 2025 | [Explaining Domain Shifts in Language: Concept erasing for Interpretable Image Classification](https://openaccess.thecvf.com/content/CVPR2025/papers/Zeng_Explaining_Domain_Shifts_in_Language_Concept_Erasing_for_Interpretable_Image_CVPR_2025_paper.pdf) |  [Code](https://github.com/joeyz0z/LanCE)|
