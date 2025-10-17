@@ -20,6 +20,11 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | NeurIPS 2025 | [Multimodal Concept Bottleneck Models](https://openreview.net/pdf?id=6r2ercqOo8) |-|
 | NeurIPS 2025 | [An Analysis of Concept Bottleneck Models: Measuring, Understanding, and Mitigating the Impact of Noisy Annotations](https://arxiv.org/pdf/2505.16705) |-|
 | NeurIPS 2025 | [Causally Reliable Concept Bottleneck Models](https://arxiv.org/pdf/2503.04363) |  [Code](https://github.com/gdefe/causally-reliable-cbm)|
+| ICCV 2025 | [Towards Safer and Understandable Driver Intention Prediction](https://arxiv.org/pdf/2510.09200) |  [Code](https://mukil07.github.io/VCBM.github.io/)|
+| ICCV 2025 | [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](https://arxiv.org/pdf/2506.22803) |  [Code](https://github.com/XiGuaBo/CBM-HNMU)|
+| ICCV 2025 | [Semi-supervised Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2406-18992.html) |[Code](https://github.com/Skyyyy0920/SSCBM)|
+| 2025 | [Interpretable Gastric Cancer Survival Prediction via Concept Bottleneck Model](https://ieeexplore.ieee.org/abstract/document/11137851) |-|
+| 2025 | [Automated Genomic Interpretation via Concept Bottleneck Models for Medical Robotics](https://arxiv.org/pdf/2510.01618) |-|
 | 2025 | [Graph Integrated Multimodal Concept Bottleneck Model](https://arxiv.org/pdf/2510.00701) |-|
 | 2025 | [Zero-shot Concept Bottleneck Models](https://arxiv.org/pdf/2502.09018) |  [Code](https://github.com/yshinya6/zcbm)|
 | 2025 | [Chat-CBM: Towards Interactive Concept Bottleneck Models with Frozen Large Language Models](https://arxiv.org/pdf/2509.17522) |-|
@@ -99,7 +104,6 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | PAKDD 2024 | [Interpreting Pretrained Language Models Via Concept Bottlenecks](https://doi.org/10.1007/978-981-97-2259-4_5) |  [Code](https://github.com/Zhen-Tan-dmml/CBM_NLP?tab=readme-ov-file)|
 | 2024 | [LVLM-Interpret: An Interpretability Tool for Large Vision-Language Models](https://arxiv.org/pdf/2404.03118) |  [Code](https://github.com/IntelLabs/lvlm-interpret)|
 | 2024 | [On the Concept Trustworthiness in Concept Bottleneck Models](https://doi.org/10.1609/aaai.v38i19.30109) |  [Code](https://github.com/hqhQAQ/ProtoCBM)|
-| 2024 | [Semi-supervised Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2406-18992.html) |[Code](https://github.com/Skyyyy0920/SSCBM)|
 | NeurIPS 2024 | [Stochastic Concept Bottleneck Models](https://arxiv.org/abs/2406.19272) |  [Code](https://github.com/mvandenhi/scbm)|
 | 2024 | [XCoOp: Explainable Prompt Learning for Computer-Aided Diagnosis via Concept-guided Context Optimization](https://arxiv.org/pdf/2403.09410v1) |-|
 | ICLR 2024 | [Concept Bottleneck Generative Models](https://dblp.uni-trier.de/rec/conf/iclr/IsmailABRC24.html) |  [Code](https://github.com/prescient-design/CBGM)|
