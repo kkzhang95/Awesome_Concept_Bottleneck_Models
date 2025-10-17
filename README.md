@@ -9,7 +9,6 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | PMLR 2025 | [Improving ARDS Diagnosis Through Context-Aware Concept Bottleneck Models](https://arxiv.org/pdf/2508.09719) |  [Code](https://github.com/ai4ai-lab/context-aware-cbms)|
-| TMLR 2025 | [Selective Concept Bottleneck Models Without Predefined Concepts](https://lmb.informatik.uni-freiburg.de/Publications/2025/SAB25/paper-ucbm.pdf) |  [Code](https://github.com/lmb-freiburg/ucbm)|
 | NeurIPS 2025 | [Sample-efficient Learning of Concepts with Theoretical Guarantees: from Data to Concepts without Interventions](https://arxiv.org/pdf/2502.06536) |  [Code](https://github.com/HiddeFok/sample-efficient-learning-of-concepts)|
 | NeurIPS 2025 | [DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research](https://arxiv.org/pdf/2506.06099) |  [Code](https://github.com/shan4035/DermaCon-IN-code)|
 | NeurIPS 2025 | [V-CECE: Visual Counterfactual Explanations via Conceptual Edits](https://arxiv.org/pdf/2509.16567) |-|
@@ -67,7 +66,6 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | CVPR 2025 | [Show and Tell: Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Benou_Show_and_Tell_Visually_Explainable_Deep_Neural_Nets_via_Spatially-Aware_CVPR_2025_paper.pdf) |[code](https://github.com/itaybenou/show-and-tell)| 
 | TMLR 2025 | [Selective Concept Bottleneck Models Without Predefined Concepts](https://openreview.net/pdf?id=uuvujfQXZy) |  [Code](https://openreview.net/forum?id=PMO30TLI4l)|
 | 2025 | [ConceptCLIP: Towards Trustworthy Medical AI Via Concept-Enhanced Contrastive Langauge-Image Pre-training](https://arxiv.org/abs/2501.15579) |  [Code](https://github.com/JerrryNie/ConceptCLIP)|
-| 2025 | [Interpretable Generative Models through Post-hoc Concept Bottlenecks](https://arxiv.org/pdf/2503.19377v1) |  [Code](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm)|
 
 #### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
