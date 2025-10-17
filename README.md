@@ -10,6 +10,7 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | PMLR 2025 | [Improving ARDS Diagnosis Through Context-Aware Concept Bottleneck Models](https://arxiv.org/pdf/2508.09719) |  [code](https://github.com/ai4ai-lab/context-aware-cbms)|
 | TMLR 2025 | [Selective Concept Bottleneck Models Without Predefined Concepts](https://lmb.informatik.uni-freiburg.de/Publications/2025/SAB25/paper-ucbm.pdf) |  [code](https://github.com/lmb-freiburg/ucbm)|
+| NeurIPS 2025 | [Object Centric Concept Bottlenecks](https://arxiv.org/pdf/2505.24492?) |  [code](https://github.com/DavSte13/Object-Centric-Concept-Bottlenecks/)|
 | NeurIPS 2025 | [Deferring Concept Bottleneck Models: Learning to Defer Interventions to Inaccurate Experts](https://arxiv.org/pdf/2503.16199) |-|
 | NeurIPS 2025 | [Bayesian concept bottleneck models with llm priors](https://arxiv.org/abs/2410.15555) |  [Code](https://github.com/jjfeng/bc-llm)|
 | NeurIPS 2025 | [Debugging Concept Bottleneck Models through Removal and Retraining](https://openreview.net/pdf?id=brVKCBEBQz) |-|
