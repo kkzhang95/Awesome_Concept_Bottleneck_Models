@@ -10,6 +10,10 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | PMLR 2025 | [Improving ARDS Diagnosis Through Context-Aware Concept Bottleneck Models](https://arxiv.org/pdf/2508.09719) |  [Code](https://github.com/ai4ai-lab/context-aware-cbms)|
 | TMLR 2025 | [Selective Concept Bottleneck Models Without Predefined Concepts](https://lmb.informatik.uni-freiburg.de/Publications/2025/SAB25/paper-ucbm.pdf) |  [Code](https://github.com/lmb-freiburg/ucbm)|
+| NeurIPS 2025 | [Sample-efficient Learning of Concepts with Theoretical Guarantees: from Data to Concepts without Interventions](https://arxiv.org/pdf/2502.06536) |  [Code](https://github.com/HiddeFok/sample-efficient-learning-of-concepts)|
+| NeurIPS 2025 | [DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research](https://arxiv.org/pdf/2506.06099) |  [Code](https://github.com/shan4035/DermaCon-IN-code)|
+| NeurIPS 2025 | [V-CECE: Visual Counterfactual Explanations via Conceptual Edits](https://arxiv.org/pdf/2509.16567) |-|
+| NeurIPS 2025 | [Shortcuts and Identifiability in Concept-based Models from a Neuro-Symbolic Lens](https://arxiv.org/pdf/2502.11245) |-|
 | NeurIPS 2025 | [Object Centric Concept Bottlenecks](https://arxiv.org/pdf/2505.24492?) |  [Code](https://github.com/DavSte13/Object-Centric-Concept-Bottlenecks/)|
 | NeurIPS 2025 | [Deferring Concept Bottleneck Models: Learning to Defer Interventions to Inaccurate Experts](https://arxiv.org/pdf/2503.16199) |-|
 | NeurIPS 2025 | [Bayesian concept bottleneck models with llm priors](https://arxiv.org/abs/2410.15555) |  [Code](https://github.com/jjfeng/bc-llm)|
