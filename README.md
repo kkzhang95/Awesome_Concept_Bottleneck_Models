@@ -8,16 +8,23 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 #### 2025
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
+| PMLR 2025 | [Improving ARDS Diagnosis Through Context-Aware Concept Bottleneck Models](https://arxiv.org/pdf/2508.09719) |  [code](https://github.com/ai4ai-lab/context-aware-cbms)|
 | TMLR 2025 | [Selective Concept Bottleneck Models Without Predefined Concepts](https://lmb.informatik.uni-freiburg.de/Publications/2025/SAB25/paper-ucbm.pdf) |  [code](https://github.com/lmb-freiburg/ucbm)|
-| 2025 | [Debugging Concept Bottleneck Models through Removal and Retraining](https://openreview.net/pdf?id=brVKCBEBQz) |-|
-| 2025 | [Multimodal Concept Bottleneck Models](https://openreview.net/pdf?id=6r2ercqOo8) |-|
+| NeurIPS 2025 | [Deferring Concept Bottleneck Models: Learning to Defer Interventions to Inaccurate Experts](https://arxiv.org/pdf/2503.16199) |-|
+| NeurIPS 2025 | [Bayesian concept bottleneck models with llm priors](https://arxiv.org/abs/2410.15555) |  [Code](https://github.com/jjfeng/bc-llm)|
+| NeurIPS 2025 | [Debugging Concept Bottleneck Models through Removal and Retraining](https://openreview.net/pdf?id=brVKCBEBQz) |-|
+| NeurIPS 2025 | [Multimodal Concept Bottleneck Models](https://openreview.net/pdf?id=6r2ercqOo8) |-|
 | NeurIPS 2025 | [An Analysis of Concept Bottleneck Models: Measuring, Understanding, and Mitigating the Impact of Noisy Annotations](https://arxiv.org/pdf/2505.16705) |-|
+| NeurIPS 2025 | [Causally Reliable Concept Bottleneck Models](https://arxiv.org/pdf/2503.04363) |  [Code](https://github.com/gdefe/causally-reliable-cbm)|
+| 2025 | [Graph Integrated Multimodal Concept Bottleneck Model](https://arxiv.org/pdf/2510.00701) |-|
 | 2025 | [Zero-shot Concept Bottleneck Models](https://arxiv.org/pdf/2502.09018) |  [Code](https://github.com/yshinya6/zcbm)|
 | 2025 | [Chat-CBM: Towards Interactive Concept Bottleneck Models with Frozen Large Language Models](https://arxiv.org/pdf/2509.17522) |-|
 | 2025 | [Graph Concept Bottleneck Models](https://arxiv.org/pdf/2508.14255) |-|
 | 2025 | [Towards Reasonable Concept Bottleneck Models](https://arxiv.org/pdf/2506.05014) |-|
 | 2025 | [There Was Never a Bottleneck in Concept Bottleneck Models](https://arxiv.org/pdf/2506.04877) |  [Code](https://github.com/antonioalmudevar/minimal_cbm)|
-| ICLR 2025 | [Causally Reliable Concept Bottleneck Models](https://arxiv.org/pdf/2503.04363) |  [Code](https://github.com/gdefe/causally-reliable-cbm)|
+| ICLR 2025 | [Addressing Concept Mislabeling in Concept Bottleneck Models Through Preference Optimization](https://openreview.net/pdf?id=sQ6lqdjGBX) |  [code](https://github.com/Emilianopp/ConceptPreferenceOptimization)|
+| ICLR 2025 | [Adaptive Test-Time Intervention for Concept Bottleneck Models](https://openreview.net/pdf?id=wBygggbUV8) |  [code](https://github.com/mattyshen/adaptiveTTI)|
+| ICLR 2025 | [Preference optimization for concept bottleneck models](https://openreview.net/pdf?id=tRDXAoCrmF) |-|
 | ICLR 2025 | [Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology](https://openreview.net/pdf?id=trj2Jq8riA) |  [Code](https://github.com/liupei101/VLSA)|
 | ICLR 2025 | [Concept Bottleneck Language Models For Protein Design](https://openreview.net/pdf?id=Yt9CFhOOFe) |-|
 | ICLR 2025 | [Concept Bottleneck Large Language Models](https://openreview.net/pdf?id=RC5FPYVQaH) |  [Code](https://github.com/Trustworthy-ML-Lab/CB-LLMs)|
@@ -82,7 +89,6 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | 2024 | [Editable Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2405-15476.html) |-|
 | ICLR 2024 | [Energy-Based Concept Bottleneck Models: Unifying Prediction, Concept Intervention, and Probabilistic Interpretations](https://doi.org/10.48550/arxiv.2401.14142) |  [Code](https://github.com/xmed-lab/ECBM)|
 | ICLR 2024 | [Faithful Vision-Language Interpretation Via Concept Bottleneck Models](https://openreview.net/pdf?id=rp0EdI8X4e) |  [Code](https://github.com/kaustpradalab/FVLC)|
-| 2024 | [Bayesian concept bottleneck models with llm priors](https://arxiv.org/abs/2410.15555) |  [Code](https://github.com/jjfeng/bc-llm)|
 | J-BHI 2024 | [Guest Editorial: Trustworthy Machine Learning for Health Informatics](https://ieeexplore.ieee.org/iel8/6221020/10745910/10745914.pdf) |-|
 | 2024 | [Improving Concept Alignment in Vision-Language Concept Bottleneck Models](https://arxiv.org/pdf/2405.01825) |  [Code](https://github.com/NMS05/Improving-Concept-Alignment-in-Vision-Language-Concept-Bottleneck-Models)|
 | MICCAI 2024 | [Integrating Clinical Knowledge into Concept Bottleneck Models](https://doi.org/10.1007/978-3-031-72083-3_23) |  [Code](https://github.com/pangwinnie0219/align_concept_cbm)|
