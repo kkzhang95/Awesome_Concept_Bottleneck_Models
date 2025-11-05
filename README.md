@@ -15,7 +15,7 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | NeurIPS 2025 | [Shortcuts and Identifiability in Concept-based Models from a Neuro-Symbolic Lens](https://arxiv.org/pdf/2502.11245) |-|
 | NeurIPS 2025 | [Object Centric Concept Bottlenecks](https://arxiv.org/pdf/2505.24492?) |  [Code](https://github.com/DavSte13/Object-Centric-Concept-Bottlenecks/)|
 | NeurIPS 2025 | [Deferring Concept Bottleneck Models: Learning to Defer Interventions to Inaccurate Experts](https://arxiv.org/pdf/2503.16199) |-|
-| NeurIPS 2025 | [Bayesian concept bottleneck models with llm priors](https://arxiv.org/abs/2410.15555) |  [Code](https://github.com/jjfeng/bc-llm)|
+| NeurIPS 2025 | [Bayesian concept bottleneck models with llm priors](https://arxiv.org/pdf/2410.15555) |  [Code](https://github.com/jjfeng/bc-llm)|
 | NeurIPS 2025 | [Debugging Concept Bottleneck Models through Removal and Retraining](https://openreview.net/pdf?id=brVKCBEBQz) |-|
 | NeurIPS 2025 | [Multimodal Concept Bottleneck Models](https://openreview.net/pdf?id=6r2ercqOo8) |-|
 | NeurIPS 2025 | [An Analysis of Concept Bottleneck Models: Measuring, Understanding, and Mitigating the Impact of Noisy Annotations](https://arxiv.org/pdf/2505.16705) |-|
