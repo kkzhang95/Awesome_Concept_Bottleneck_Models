@@ -22,7 +22,7 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | NeurIPS 2025 | [Causally Reliable Concept Bottleneck Models](https://arxiv.org/pdf/2503.04363) |  [Code](https://github.com/gdefe/causally-reliable-cbm)|
 | ICCV 2025 | [Towards Safer and Understandable Driver Intention Prediction](https://arxiv.org/pdf/2510.09200) |  [Code](https://mukil07.github.io/VCBM.github.io/)|
 | ICCV 2025 | [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](https://arxiv.org/pdf/2506.22803) |  [Code](https://github.com/XiGuaBo/CBM-HNMU)|
-| ICCV 2025 | [Semi-supervised Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2406-18992.html) |[Code](https://github.com/Skyyyy0920/SSCBM)|
+| ICCV 2025 | [Semi-supervised Concept Bottleneck Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Semi-supervised_Concept_Bottleneck_Models_ICCV_2025_paper.pdf) |[Code](https://github.com/Skyyyy0920/SSCBM)|
 | 2025 | [Interpretable Gastric Cancer Survival Prediction via Concept Bottleneck Model](https://ieeexplore.ieee.org/abstract/document/11137851) |-|
 | 2025 | [Automated Genomic Interpretation via Concept Bottleneck Models for Medical Robotics](https://arxiv.org/pdf/2510.01618) |-|
 | 2025 | [Graph Integrated Multimodal Concept Bottleneck Model](https://arxiv.org/pdf/2510.00701) |-|
