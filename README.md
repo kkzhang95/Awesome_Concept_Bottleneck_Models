@@ -31,7 +31,7 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | 2025 | [Graph Concept Bottleneck Models](https://arxiv.org/pdf/2508.14255) |-|
 | 2025 | [Towards Reasonable Concept Bottleneck Models](https://arxiv.org/pdf/2506.05014) |-|
 | 2025 | [There Was Never a Bottleneck in Concept Bottleneck Models](https://arxiv.org/pdf/2506.04877) |  [Code](https://github.com/antonioalmudevar/minimal_cbm)|
-| ICLR 2025 | [Addressing Concept Mislabeling in Concept Bottleneck Models Through Preference Optimization](https://openreview.net/pdf?id=sQ6lqdjGBX) |  [Code](https://github.com/Emilianopp/ConceptPreferenceOptimization)|
+| ICML 2025 | [Addressing Concept Mislabeling in Concept Bottleneck Models Through Preference Optimization](https://openreview.net/pdf?id=sQ6lqdjGBX) |  [Code](https://github.com/Emilianopp/ConceptPreferenceOptimization)|
 | ICLR 2025 | [Adaptive Test-Time Intervention for Concept Bottleneck Models](https://openreview.net/pdf?id=wBygggbUV8) |  [Code](https://github.com/mattyshen/adaptiveTTI)|
 | ICLR 2025 | [Preference optimization for concept bottleneck models](https://openreview.net/pdf?id=tRDXAoCrmF) |-|
 | ICLR 2025 | [Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology](https://openreview.net/pdf?id=trj2Jq8riA) |  [Code](https://github.com/liupei101/VLSA)|
