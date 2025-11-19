@@ -90,7 +90,6 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | NeurIPS 2024 | [Towards Multi-dimensional Explanation Alignment for Medical Classification](https://proceedings.neurips.cc/paper_files/paper/2024/file/ea370419760b421ce12e3082eb2ae1a8-Paper-Conference.pdf) |-|
 | 2024 | [Explainable and interpretable multimodal large language models: A comprehensive survey](https://arxiv.org/abs/2412.02104) |-|
 | AAAI 2024 | [Sparsity-guided holistic explanation for llms with interpretable inference-time intervention](https://ojs.aaai.org/index.php/AAAI/article/download/30160/32058) |  [Code](https://github.com/zhen-tan-dmml/sparsecbm)|
-| 2024 | [Addressing Leakage in Concept Bottleneck Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/944ecf65a46feb578a43abfd5cddd960-Paper-Conference.pdf) |  [Code](https://github.com/dtak/addressing-leakage)|
 | NeurIPS 2024 | [Beyond Concept Bottleneck Models: How to Make Black Boxes Intervenable?](https://doi.org/10.48550/arxiv.2401.13544) |  [Code](https://github.com/sonialagunac/beyond-cbm)|
 | TMLR 2024 | [CLIP-QDA: an Explainable Concept Bottleneck Model](https://doi.org/10.48550/arxiv.2312.00110) |-|
 | ICLR 2024 | [Concept Bottleneck Generative Models](https://dblp.uni-trier.de/rec/conf/iclr/IsmailABRC24.html) |  [Code](https://github.com/prescient-design/CBGM)|
@@ -156,6 +155,7 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | ICCV 2022 | [Explaining in Style: Training a GAN to Explain a Classifier in StyleSpace](https://doi.org/10.5281/zenodo.6574709) |-|
 | ICLR 2023 | [CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks](https://arxiv.org/abs/2204.10965) |  [Code](https://github.com/trustworthy-ml-lab/clip-dissect)|
 | NeurIPS 2022 | [Concept Embedding Models](https://arxiv.org/abs/2209.09056) |  [Code](https://github.com/mateoespinosa/cem)|
+| NeurIPS 2022 | [Addressing Leakage in Concept Bottleneck Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/944ecf65a46feb578a43abfd5cddd960-Paper-Conference.pdf) |  [Code](https://github.com/dtak/addressing-leakage)|
 
 #### 2021
 | Publication |    Paper Title     |   Code/Project                                                 |
