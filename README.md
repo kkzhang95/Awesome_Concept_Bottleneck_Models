@@ -32,6 +32,7 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | 2025 | [Towards Reasonable Concept Bottleneck Models](https://arxiv.org/pdf/2506.05014) |-|
 | 2025 | [There Was Never a Bottleneck in Concept Bottleneck Models](https://arxiv.org/pdf/2506.04877) |  [Code](https://github.com/antonioalmudevar/minimal_cbm)|
 | ICML 2025 | [Addressing Concept Mislabeling in Concept Bottleneck Models Through Preference Optimization](https://openreview.net/pdf?id=sQ6lqdjGBX) |  [Code](https://github.com/Emilianopp/ConceptPreferenceOptimization)|
+| ICML 2025 | [Editable Concept Bottleneck Models](https://openreview.net/pdf?id=R0R3MRD8vh) |  [Code](https://github.com/kaustpradalab/ECBM)|
 | ICLR 2025 | [Adaptive Test-Time Intervention for Concept Bottleneck Models](https://openreview.net/pdf?id=wBygggbUV8) |  [Code](https://github.com/mattyshen/adaptiveTTI)|
 | ICLR 2025 | [Preference optimization for concept bottleneck models](https://openreview.net/pdf?id=tRDXAoCrmF) |-|
 | ICLR 2025 | [Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology](https://openreview.net/pdf?id=trj2Jq8riA) |  [Code](https://github.com/liupei101/VLSA)|
@@ -93,7 +94,6 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | NeurIPS 2024 | [Beyond Concept Bottleneck Models: How to Make Black Boxes Intervenable?](https://doi.org/10.48550/arxiv.2401.13544) |  [Code](https://github.com/sonialagunac/beyond-cbm)|
 | TMLR 2024 | [CLIP-QDA: an Explainable Concept Bottleneck Model](https://doi.org/10.48550/arxiv.2312.00110) |-|
 | ICLR 2024 | [Concept Bottleneck Generative Models](https://dblp.uni-trier.de/rec/conf/iclr/IsmailABRC24.html) |  [Code](https://github.com/prescient-design/CBGM)|
-| 2024 | [Editable Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2405-15476.html) |-|
 | ICLR 2024 | [Energy-Based Concept Bottleneck Models: Unifying Prediction, Concept Intervention, and Probabilistic Interpretations](https://doi.org/10.48550/arxiv.2401.14142) |  [Code](https://github.com/xmed-lab/ECBM)|
 | ICLR 2024 | [Faithful Vision-Language Interpretation Via Concept Bottleneck Models](https://openreview.net/pdf?id=rp0EdI8X4e) |  [Code](https://github.com/kaustpradalab/FVLC)|
 | J-BHI 2024 | [Guest Editorial: Trustworthy Machine Learning for Health Informatics](https://ieeexplore.ieee.org/iel8/6221020/10745910/10745914.pdf) |-|
