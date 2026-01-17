@@ -102,7 +102,7 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | Medical Image Analysis 2024 | [Interpretable and Intervenable Ultrasonography-Based Machine Learning Models for Pediatric Appendicitis](https://doi.org/10.1016/j.media.2023.103042) |  [Code](https://github.com/i6092467/semi-supervised-multiview-cbm)|
 | PAKDD 2024 | [Interpreting Pretrained Language Models Via Concept Bottlenecks](https://doi.org/10.1007/978-981-97-2259-4_5) |  [Code](https://github.com/Zhen-Tan-dmml/CBM_NLP?tab=readme-ov-file)|
 | 2024 | [LVLM-Interpret: An Interpretability Tool for Large Vision-Language Models](https://arxiv.org/pdf/2404.03118) |  [Code](https://github.com/IntelLabs/lvlm-interpret)|
-| 2024 | [On the Concept Trustworthiness in Concept Bottleneck Models](https://doi.org/10.1609/aaai.v38i19.30109) |  [Code](https://github.com/hqhQAQ/ProtoCBM)|
+| AAAI 2024 | [On the Concept Trustworthiness in Concept Bottleneck Models](https://doi.org/10.1609/aaai.v38i19.30109) |  [Code](https://github.com/hqhQAQ/ProtoCBM)|
 | NeurIPS 2024 | [Stochastic Concept Bottleneck Models](https://arxiv.org/abs/2406.19272) |  [Code](https://github.com/mvandenhi/scbm)|
 | 2024 | [XCoOp: Explainable Prompt Learning for Computer-Aided Diagnosis via Concept-guided Context Optimization](https://arxiv.org/pdf/2403.09410v1) |-|
 | ICLR 2024 | [Concept Bottleneck Generative Models](https://dblp.uni-trier.de/rec/conf/iclr/IsmailABRC24.html) |  [Code](https://github.com/prescient-design/CBGM)|
@@ -122,6 +122,7 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | NeurIPS 2024 | [Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents](https://doi.org/10.48550/arxiv.2401.05821) |  [Code](https://github.com/k4ntz/scobots)|
 | NeurIPS 2024 | [Interpretable Concept-Based Memory Reasoning](https://arxiv.org/abs/2407.15527) |  [Code](https://github.com/daviddebot/CMR)|
 | NeurIPS 2024 | [Interpreting CLIP with Sparse Linear Concept Embeddings (Splice)](https://doi.org/10.48550/arxiv.2402.10376) |  [Code](https://github.com/ai4life-group/splice)|
+| NeurIPS 2024 | [Coarse-to-fine concept bottleneck models](https://proceedings.neurips.cc/paper_files/paper/2024/file/bdeab378efe6eb289714e2a5abc6ed42-Paper-Conference.pdf) |  [Code](https://github.com/konpanousis/Coarse-To-Fine-CBMs)|
 | NeurIPS 2024 | [Learning Discrete Concepts in Latent Hierarchical Models](https://arxiv.org/abs/2406.00519) |-|
 | 2024 | [LG-CAV: Train Any Concept Activation Vector with Language Guidance](https://arxiv.org/abs/2410.10308) |-|
 | 2024 | [Neural Concept Binder](https://doi.org/10.48550/arxiv.2406.09949) |  [Code](https://github.com/ml-research/neuralconceptbinder)|
