@@ -2,6 +2,7 @@
 This repository is the official companion to our survey paper: **Concept Bottleneck Models for Explainable Decision Making: A Survey of Progress, Taxonomy, and Future Directions.**
 
 We aim to systematically organize the rapidly evolving landscape of Concept Bottleneck Models (CBMs), offering a comprehensive collection of core literature, code implementations, and datasets.
+The paper can be found here: [Concept Bottleneck Models for Explainable Decision Making: A Survey of Progress, Taxonomy and Future Directions](https://www.researchgate.net/publication/399898851_Concept_Bottleneck_Models_for_Explainable_Decision_Making_A_Survey_of_Progress_Taxonomy_and_Future_Directions)
 
 ## What is Concept Bottleneck Models (CBMs)?
 Concept Bottleneck Models (CBMs) represent a shift from opaque "black-box" neural networks to interpretable, human-aligned systems. By explicitly decomposing the prediction process into two stages—mapping inputs to human-understandable concepts ($x \rightarrow c$) and then concepts to targets ($c \rightarrow y$)—CBMs offer semantic explanations and enable test-time intervention.
