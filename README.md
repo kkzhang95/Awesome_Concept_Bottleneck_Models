@@ -1,10 +1,45 @@
-# Awesome_Concept_Bottleneck_Models
-A comprehensive survey of Concept Bottleneck Models (CBM). CBMs typically involve a layer preceding the final fully connected classifier, where each neuron corresponds to a concept that can be interpreted by humans. CBMs also show advantages in improving accuracy through human intervention during testing.
+# Awesome Concept Bottleneck Models
+This repository is the official companion to our survey paper: **Concept Bottleneck Models for Explainable Decision Making: A Survey of Progress, Taxonomy, and Future Directions.**
 
-![image](https://github.com/user-attachments/assets/2d0eebf1-57e6-4760-aab5-f6f4fbdec3bd)
-A case for CBM family methods. (Figure from [Incremental Residual Concept Bottleneck Models](https://doi.org/10.1109/cvpr52733.2024.01049))
+We aim to systematically organize the rapidly evolving landscape of Concept Bottleneck Models (CBMs), offering a comprehensive collection of core literature, code implementations, and datasets.
+
+## What is Concept Bottleneck Models (CBMs)?
+Concept Bottleneck Models (CBMs) represent a shift from opaque "black-box" neural networks to interpretable, human-aligned systems. By explicitly decomposing the prediction process into two stages—mapping inputs to human-understandable concepts ($x \rightarrow c$) and then concepts to targets ($c \rightarrow y$)—CBMs offer semantic explanations and enable test-time intervention.
 
 
+## 🧩 Taxonomy & Framework
+We propose a comprehensive taxonomy to organize CBM research along **four primary dimensions**.
+
+<img width="1576" height="454" alt="fig_overview" src="https://github.com/user-attachments/assets/0d0f6919-c723-4a77-a6d7-53ad14cc24bd" />
+Figure 1: Overview of the CBM pipeline. The figure illustrates how explicit concepts are acquired, integrated into decision making, intervened
+upon, and evaluated to produce interpretable predictions.
+
+### 1. Concept Acquisition
+How are the interpretable concepts defined and learned?
+- **Manual Annotation:** Expert-defined concepts (e.g., CUB, medical attributes).
+- **Dictionary-Based:** Visually grounded concepts filtered from large vocabularies.
+- **LLM/VLM-Guided:** Leveraging foundation models to generate hierarchical or descriptive semantics.
+- **Visual Prototypes:** Discovering concepts directly from image regions or parts.
+
+### 2. Concept-based Decision Making
+How does the bottleneck mediate information flow?
+- **Bottleneck Design:** From strict "hard" bottlenecks to "soft," "hybrid," or "residual" designs that balance interpretability and accuracy.
+- **Supervision:** Ranging from strong supervision (full concept labels) to weak or unsupervised learning.
+- **Model Adaptation:** Methods enabling post-hoc editing or updating of concepts without full retraining.
+
+### 3. Concept Intervention
+How can humans interact with the model?
+- **Mechanisms:** Modifying scalar values, spatial attention, or using natural language feedback.
+- **Correlations:** Handling dependencies between concepts to propagate corrections effectively.
+- **Localization:** Identifying *which* concepts allow for the most effective intervention.
+
+### 4. Concept Evaluation
+How do we measure success beyond accuracy?
+- **Faithfulness:** Do concepts align with true semantic meanings?
+- **Sparsity:** Is the concept set minimal and cognitively manageable?
+- **Intervenability:** How effectively does the model respond to human corrections?
+
+## 📖 Paper List
 #### 2025
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
@@ -182,4 +217,8 @@ A case for CBM family methods. (Figure from [Incremental Residual Concept Bottle
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | AAAI 2017 | [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/abs/1612.03975) |  [Code](https://arxiv.org/pdf/1612.03975)|
+
+## 📊 Benchmark
+Representative benchmarks for evaluating CBMs.
+<img width="999" height="586" alt="image" src="https://github.com/user-attachments/assets/f1e640cf-a24e-45f2-97f5-2ba83eb917ca" />
 
