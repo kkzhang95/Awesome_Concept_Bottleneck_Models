@@ -223,9 +223,11 @@ How do we measure success beyond accuracy?
 Representative benchmarks for evaluating CBMs.
 <img width="999" height="586" alt="image" src="https://github.com/user-attachments/assets/f1e640cf-a24e-45f2-97f5-2ba83eb917ca" />
 
-## Paper
-If you find this paper is helpful, please cite the following paper:
+## 📄 Paper
 
+If you find this work helpful, please consider citing:
+
+```bibtex
 @article{Wang2026CBMSurvey,
   title   = {Concept Bottleneck Models for Explainable Decision Making: A Survey of Progress, Taxonomy, and Future Directions},
   author  = {Wang, Chunjiang and Li, Fan and Hu, Wenbo and Yan, Rui and Zhang, Kun and Zhou, Shaohua Kevin},
