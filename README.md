@@ -41,6 +41,11 @@ How do we measure success beyond accuracy?
 - **Intervenability:** How effectively does the model respond to human corrections?
 
 ## 📖 Paper List
+#### 2026
+| Publication |    Paper Title     |   Code/Project                                                 |
+|:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
+| arXiv 2026 | [Selecting Decision-Relevant Concepts in Reinforcement Learning](https://arxiv.org/abs/2604.04808) |  [Code](https://github.com/naveenr414/concept_decisions)|
+
 #### 2025
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
@@ -75,6 +80,7 @@ How do we measure success beyond accuracy?
 | ICLR 2025 | [Concept Bottleneck Language Models For Protein Design](https://openreview.net/pdf?id=Yt9CFhOOFe) |-|
 | ICLR 2025 | [Concept Bottleneck Large Language Models](https://openreview.net/pdf?id=RC5FPYVQaH) |  [Code](https://github.com/Trustworthy-ML-Lab/CB-LLMs)|
 | ICLR 2025 | [Counterfactual Concept Bottleneck Models](https://openreview.net/pdf?id=w7pMjyjsKN) |  [Code](https://github.com/gabriele-dominici/Counterfactual-CBM)|
+| ICLR 2025 | [LICORICE: Label-Efficient Concept-Based Interpretable Reinforcement Learning](https://arxiv.org/abs/2407.15786) |  [Code](https://github.com/cuizhuyefei/LICORICE)|
 | AAAI 2025 | [Explanation Bottleneck Models](https://arxiv.org/pdf/2409.17663) |  [Code](https://github.com/yshinya6/xbm/)|
 | AAAI 2025 | [Interpretable Failure Detection with Human-Level Concepts](https://ojs.aaai.org/index.php/AAAI/article/view/34831) |  [Code](https://github.com/Nyquixt/ORCA)|
 | AAAI 2025 | [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://ojs.aaai.org/index.php/AAAI/article/view/32352) |  [Code](https://github.com/riverback/V2C-CBM)|
