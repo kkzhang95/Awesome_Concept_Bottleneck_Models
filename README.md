@@ -4,6 +4,26 @@ This repository is the official companion to our survey paper: **Concept Bottlen
 We aim to systematically organize the rapidly evolving landscape of Concept Bottleneck Models (CBMs), offering a comprehensive collection of core literature, code implementations, and datasets.
 The paper can be found here: [Concept Bottleneck Models for Explainable Decision Making: A Survey of Progress, Taxonomy and Future Directions](https://www.researchgate.net/publication/399898851_Concept_Bottleneck_Models_for_Explainable_Decision_Making_A_Survey_of_Progress_Taxonomy_and_Future_Directions)
 
+## 🤝 Contributions & Citation
+
+We welcome contributions from the community! If your paper or any relevant work is missing from this collection, please feel free to submit a [Pull Request](https://github.com/kkzhang95/Awesome_Concept_Bottleneck_Models/pulls) to add it. Your contributions are greatly appreciated and will help keep this repository up to date.
+
+If you find this repository or our survey helpful in your research, we would appreciate it if you could cite our paper:
+
+```bibtex
+@inproceedings{ijcai2026p892,
+  title     = {Concept Bottleneck Models for Explainable Decision Making: A Survey of Progress, Taxonomy, and Future Directions},
+  author    = {Wang, Chunjiang and Li, Fan and Hu, Wenbo and Yan, Rui and Zhang, Kun and Zhou, Shaohua Kevin},
+  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence, {IJCAI-26}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  pages     = {8041--8049},
+  year      = {2026},
+  month     = {8}
+}
+```
+
+
+
 ## What is Concept Bottleneck Models (CBMs)?
 Concept Bottleneck Models (CBMs) represent a shift from opaque "black-box" neural networks to interpretable, human-aligned systems. By explicitly decomposing the prediction process into two stages—mapping inputs to human-understandable concepts ($x \rightarrow c$) and then concepts to targets ($c \rightarrow y$)—CBMs offer semantic explanations and enable test-time intervention.
 
@@ -230,16 +250,3 @@ How do we measure success beyond accuracy?
 Representative benchmarks for evaluating CBMs.
 <img width="999" height="586" alt="image" src="https://github.com/user-attachments/assets/f1e640cf-a24e-45f2-97f5-2ba83eb917ca" />
 
-## 📄 Paper
-
-If you find this work helpful, please consider citing:
-
-```bibtex
-@article{Wang2026CBMSurvey,
-  title   = {Concept Bottleneck Models for Explainable Decision Making: A Survey of Progress, Taxonomy, and Future Directions},
-  author  = {Wang, Chunjiang and Li, Fan and Hu, Wenbo and Yan, Rui and Zhang, Kun and Zhou, Shaohua Kevin},
-  journal = {ResearchGate Preprint},
-  year    = {2026},
-  doi     = {10.13140/RG.2.2.30356.16002},
-  url     = {https://www.researchgate.net/publication/399898851_Concept_Bottleneck_Models_for_Explainable_Decision_Making_A_Survey_of_Progress_Taxonomy_and_Future_Directions}
-}
