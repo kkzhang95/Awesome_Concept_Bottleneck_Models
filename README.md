@@ -44,6 +44,7 @@ How do we measure success beyond accuracy?
 #### 2026
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
+| AAAI 2026 | [Partially Shared Concept Bottleneck Models](https://arxiv.org/abs/2511.22170) |  [Code](https://github.com/7494zdl/PS-CBM)|
 | arXiv 2026 | [Selecting Decision-Relevant Concepts in Reinforcement Learning](https://arxiv.org/abs/2604.04808) |  [Code](https://github.com/naveenr414/concept_decisions)|
 
 #### 2025
